@@ -91,7 +91,7 @@ const Footer = () => {
               </svg>{" "}
               <span  className="
              hover:text-[#D4AF37] transition-all duration-300">
-                              +92 33256768872
+                              +92 3256768872
 
               </span>
               
