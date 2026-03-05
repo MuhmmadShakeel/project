@@ -15,7 +15,7 @@ const Footer = () => {
           />
           <p className="text-white/70 mb-4 leading-relaxed mt-4">
             Luxury garment care redefined. Serving Doha's discerning clients
-            with unparalleled quality and service.
+            with unparalleled quality.
           </p>
         </div>
 
@@ -23,7 +23,7 @@ const Footer = () => {
   <h3 className="text-lg font-medium text-[#D4AF37] mb-6 tracking-wider">
     OUR SERVICES
   </h3>
-  <ul className="space-y-2 text-gray-300 text-base">
+  <ul className="space-y-2 text-gray-400 text-base">
     {[
       "Premium Laundry",
       "Dry Cleaning",
