@@ -8,14 +8,14 @@ const Need = () => {
           Need Personalized Service?
         </h3>
         <p className="text-gray-300 mb-8">
-        Our VIP concierge team is available 24/7 to handle special requests, delicate items, or bulk orders for businesses and residences.
+        Our VIP concierge team is available 24/7 to handle special requests, delicate items, or bulk orders for businesses.
         </p>
         <a 
           href="/contact" 
           className="inline-block"
         >
          <a href="/us">
-           <button className="px-8 py-3 bg-[#D4AF37] hover:bg-[#e6c04d] text-[#1C1C1C] rounded-full font-medium flex items-center gap-2 mx-auto hover:scale-105 transition-all duration-300">
+           <button className="px-8 py-4 bg-[#D4AF37] hover:bg-[#e6c04d] text-[#1C1C1C] rounded-full font-medium flex items-center gap-2 mx-auto hover:scale-105 transition-all duration-300">
             Contact Concierge
             <svg 
               xmlns="http://www.w3.org/2000/svg" 
